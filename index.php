@@ -1,0 +1,1376 @@
+<?php include "includes/header.php"; ?>
+
+<?php include "includes/navbar.php"; ?>
+
+<!-- Hero Section -->
+<section class="hero">
+
+<div class="container hero-container">
+
+<div class="row align-items-center">
+
+<div class="col-lg-5">
+
+<span class="hero-tag">
+
+Professional Security Solutions
+
+</span>
+
+<h1>
+
+Protecting What Matters Most.
+
+</h1>
+
+<p>
+
+Riley Falcon Security delivers integrated security services including professional guarding, electronic security, CCTV surveillance, alarm monitoring, access control, K9 units and cash-in-transit solutions across Kenya.
+
+</p>
+
+
+<div class="hero-buttons">
+
+<a href="quote.php" class="btn btn-main">
+
+Request Quote
+
+</a>
+
+<button
+    class="btn btn-outline-light"
+    data-bs-toggle="modal"
+    data-bs-target="#videoModal">
+
+    <i class="bi bi-play-circle-fill me-2"></i>
+
+    Watch Video
+
+</button>
+
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+
+<div class="scroll-down">
+
+    <span>Scroll</span>
+
+    <i class="bi bi-chevron-double-down"></i>
+
+</div>
+
+</section>
+
+
+<!-- ==========================
+STATS STRIP
+========================== -->
+<section class="hero-stats">
+
+    <div class="container">
+
+        <div class="row text-center">
+
+            <div class="col-md-3 col-6">
+
+                <h2>20+</h2>
+
+                <p>Years Experience</p>
+
+            </div>
+
+            <div class="col-md-3 col-6">
+
+                <h2>500+</h2>
+
+                <p>Security Personnel</p>
+
+            </div>
+
+            <div class="col-md-3 col-6">
+
+                <h2>24/7</h2>
+
+                <p>Monitoring</p>
+
+            </div>
+
+            <div class="col-md-3 col-6">
+
+                <h2>1000+</h2>
+
+                <p>Protected Sites</p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =====================================
+ TRUSTED CLIENTS
+====================================== -->
+
+<section class="trusted-clients">
+
+    <div class="container">
+
+        <div class="section-title">
+
+            <span>Trusted By</span>
+
+            <h2>Leading Organizations Across Kenya</h2>
+
+        </div>
+
+    </div>
+
+    <div class="logo-slider">
+
+        <div class="logo-track">
+
+            <!-- first set -->
+
+            <img src="assets/images/clients/agakhan.png" alt="">
+            <img src="assets/images/clients/bh.png" alt="">
+            <img src="assets/images/clients/brook.png" alt="">
+            <img src="assets/images/clients/coop.png" alt="">
+            <img src="assets/images/clients/equity.png" alt="">
+            <img src="assets/images/clients/jaguar.png" alt="">
+            <img src="assets/images/clients/kcb.png" alt="">
+
+            <!-- duplicate -->
+
+            <img src="assets/images/clients/kengen.png" alt="">
+            <img src="assets/images/clients/klb.png" alt="">
+            <img src="assets/images/clients/kpa.png" alt="">
+            <img src="assets/images/clients/kpc.png" alt="">
+            <img src="assets/images/clients/murphy.png" alt="">
+            <img src="assets/images/clients/ncba.png" alt="">
+            <img src="assets/images/clients/safaricom.png" alt="">
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================
+WHY CHOOSE US
+========================================= -->
+
+<section class="why-us">
+
+    <div class="container">
+
+        <div class="row align-items-center">
+
+            <!-- Left Side -->
+
+            <div class="col-lg-6" data-aos="fade-right">
+
+                <span class="section-tag">
+
+                    WHY CHOOSE US
+
+                </span>
+
+                <h2>
+
+                    Your Trusted Security Partner
+
+                </h2>
+
+                <p class="lead-text">
+
+                    Riley Falcon Security combines highly trained personnel, cutting-edge technology and decades of experience to deliver reliable, professional and responsive security solutions across Kenya.
+
+                </p>
+
+                <div class="why-list">
+
+                    <div class="why-item">
+
+                        <div class="why-icon">
+
+                            <i class="bi bi-shield-check"></i>
+
+                        </div>
+
+                        <div>
+
+                            <h5>Licensed & Certified</h5>
+
+                            <p>PSRA Licensed and ISO Certified for quality and safety management.</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="why-item">
+
+                        <div class="why-icon">
+
+                            <i class="bi bi-person-check"></i>
+
+                        </div>
+
+                        <div>
+
+                            <h5>Professional Personnel</h5>
+
+                            <p>Highly trained guards backed by continuous supervision and training.</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="why-item">
+
+                        <div class="why-icon">
+
+                            <i class="bi bi-cpu"></i>
+
+                        </div>
+
+                        <div>
+
+                            <h5>Modern Technology</h5>
+
+                            <p>Integrated electronic security, CCTV, access control and alarm monitoring.</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="why-item">
+
+                        <div class="why-icon">
+
+                            <i class="bi bi-headset"></i>
+
+                        </div>
+
+                        <div>
+
+                            <h5>24/7 Control Room</h5>
+
+                            <p>Round-the-clock monitoring and rapid emergency response.</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <a href="about.php" class="btn btn-main mt-4">
+
+                    Learn More About Us
+
+                </a>
+
+            </div>
+
+            <!-- Right Side -->
+
+            <div class="col-lg-6" data-aos="fade-left">
+
+                <div class="why-image">
+
+                    <img src="assets/images/about/homepage.jpg" alt="Control Room">
+
+                    <div class="experience-box">
+
+                        <h2>20+</h2>
+
+                        <span>Years of Experience</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- =========================================
+     OUR SERVICES
+========================================= -->
+
+<section class="services-section">
+
+    <div class="container">
+
+        <div class="section-header text-center">
+
+            <span class="section-subtitle">
+                WHAT WE DO
+            </span>
+
+            <h2>
+                Integrated Security Solutions
+            </h2>
+
+            <p>
+                We combine professional manpower with modern technology to provide
+                complete security solutions for businesses, institutions and homes.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <!-- Guarding -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/guarding.jpg" alt="Guarding Services">
+                        <span class="service-badge">
+
+    Guarding
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-shield-check"></i>
+
+                        </div>
+
+                        <h4>Guarding Services</h4>
+
+                        <p>
+                            Professional static guards, mobile patrols,
+                            event security and VIP protection.
+                        </p>
+
+                        <a href="guarding.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Electronic Security -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/electronic.png" alt="Electronic Security">
+                        <span class="service-badge">
+
+    Electronic Security
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-camera-video"></i>
+
+                        </div>
+
+                        <h4>Electronic Security</h4>
+
+                        <p>
+                            CCTV, alarms, electric fencing, access control and integrated monitoring.
+                        </p>
+
+                        <a href="electronic.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Alarm Monitoring -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/controlroom.png" alt="Alarm Monitoring">
+                        <span class="service-badge">
+
+    Alarm Monitoring
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-bell"></i>
+
+                        </div>
+
+                        <h4>Alarm Monitoring</h4>
+
+                        <p>
+                            24/7 monitoring supported by our professional control room and rapid response teams.
+                        </p>
+
+                        <a href="alarm.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Cash In Transit -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/cit.png" alt="Cash In Transit">
+                        <span class="service-badge">
+
+    Cash in Transit
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-truck"></i>
+
+                        </div>
+
+                        <h4>Cash In Transit</h4>
+
+                        <p>
+                            Secure transportation of cash and valuables using trained crews and secure vehicles.
+                        </p>
+
+                        <a href="cit.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- K9 -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/k9.jpg" alt="K9 Services">
+                        <span class="service-badge">
+
+    K9 Services
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-heart-pulse"></i>
+
+                        </div>
+
+                        <h4>K9 Services</h4>
+
+                        <p>
+                            Highly trained patrol and detection dogs handled by experienced professionals.
+                        </p>
+
+                        <a href="k9.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Courier -->
+
+            <div class="col-lg-4 col-md-6">
+
+                <div class="service-card">
+
+                    <div class="service-image">
+
+                        <img src="assets/images/services/courier.jpg" alt="Courier & Logistics">
+                        <span class="service-badge">
+
+    Access Control
+
+</span>
+
+                    </div>
+
+                    <div class="service-content">
+
+                        <div class="service-icon">
+
+                            <i class="bi bi-fingerprint"></i>
+
+                        </div>
+
+                        <h4>Courier & Logistics</h4>
+
+                        <p>
+                            Courier operations supported by modern tracking technology.
+                        </p>
+
+                        <a href="courier.php">
+
+                            Explore Service
+
+                            <i class="bi bi-arrow-right"></i>
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ==========================================
+HOW WE WORK
+=========================================== -->
+
+<section class="process-section">
+
+<div class="container">
+
+<div class="section-header text-center">
+
+<span class="section-subtitle">
+
+HOW WE WORK
+
+</span>
+
+<h2>
+
+Our Proven Security Process
+
+</h2>
+
+<p>
+
+From consultation to continuous support, we follow a structured process that ensures every security solution is tailored to your unique needs.
+
+</p>
+
+</div>
+
+<div class="process-wrapper">
+
+<div class="process-step">
+
+<div class="step-number">01</div>
+
+<div class="step-icon">
+
+<i class="bi bi-chat-dots"></i>
+
+</div>
+
+<h5>Consultation</h5>
+
+<p>
+
+Understanding your security challenges.
+
+</p>
+
+</div>
+
+<div class="process-line"></div>
+
+<div class="process-step">
+
+<div class="step-number">02</div>
+
+<div class="step-icon">
+
+<i class="bi bi-search"></i>
+
+</div>
+
+<h5>Risk Assessment</h5>
+
+<p>
+
+Evaluating threats and vulnerabilities.
+
+</p>
+
+</div>
+
+<div class="process-line"></div>
+
+<div class="process-step">
+
+<div class="step-number">03</div>
+
+<div class="step-icon">
+
+<i class="bi bi-geo-alt"></i>
+
+</div>
+
+<h5>Site Survey</h5>
+
+<p>
+
+Physical inspection of your premises.
+
+</p>
+
+</div>
+
+<div class="process-line"></div>
+
+<div class="process-step">
+
+<div class="step-number">04</div>
+
+<div class="step-icon">
+
+<i class="bi bi-pencil-square"></i>
+
+</div>
+
+<h5>Solution Design</h5>
+
+<p>
+
+Developing a customized security strategy.
+
+</p>
+
+</div>
+
+<div class="process-line"></div>
+
+<div class="process-step">
+
+<div class="step-number">05</div>
+
+<div class="step-icon">
+
+<i class="bi bi-tools"></i>
+
+</div>
+
+<h5>Deployment</h5>
+
+<p>
+
+Implementation by our expert teams.
+
+</p>
+
+</div>
+
+<div class="process-line"></div>
+
+<div class="process-step">
+
+<div class="step-number">06</div>
+
+<div class="step-icon">
+
+<i class="bi bi-headset"></i>
+
+</div>
+
+<h5>24/7 Support</h5>
+
+<p>
+
+Continuous monitoring and response.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- ==========================================
+TECHNOLOGY PARTNERS
+=========================================== -->
+
+<section class="partners-section">
+
+    <div class="container">
+
+        <div class="section-header text-center">
+
+            <span class="section-subtitle">
+                TECHNOLOGY PARTNERS
+            </span>
+
+            <h2>
+                Trusted Security Technology
+            </h2>
+
+            <p>
+                Riley Falcon works with globally recognized manufacturers to deliver reliable,
+                scalable and future-ready security solutions.
+            </p>
+
+        </div>
+
+        <div class="partners-grid">
+
+            <div class="partner-card">
+                <img src="assets/images/brands/hikvision.png" alt="Hikvision">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/dahua.png" alt="Dahua">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/zkt.png" alt="ZKTeco">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/ajax.png" alt="Ajax">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/honewell.png" alt="Honeywell">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/bosch.png" alt="Bosch">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/suprema.png" alt="Suprema">
+            </div>
+
+            <div class="partner-card">
+                <img src="assets/images/brands/nemtek.png" alt="Nemtek">
+            </div>
+
+        </div>
+
+        <div class="text-center mt-5">
+
+            <a href="products.php" class="btn btn-main">
+
+                Explore Our Technology
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ==========================================
+TESTIMONIALS
+=========================================== -->
+
+<section class="testimonial-section">
+
+<div class="container">
+
+<div class="section-header text-center">
+
+<span class="section-subtitle">
+
+CLIENT TESTIMONIALS
+
+</span>
+
+<h2>
+
+Trusted by Businesses Across Kenya
+
+</h2>
+
+<p>
+
+Our commitment to professionalism and reliability has earned the confidence of clients from various industries.
+
+</p>
+
+</div>
+
+<div class="row g-4">
+
+<div class="col-lg-4 col-md-6">
+
+<div class="testimonial-card">
+
+<div class="stars">
+
+★★★★★
+
+</div>
+
+<p>
+
+"Riley Falcon has consistently delivered professional guarding services with excellent supervision and rapid response."
+
+</p>
+
+<div class="client">
+
+<img src="assets/images/testimonials/client1.jpg">
+
+<div>
+
+<h5>
+
+John Mwangi
+
+</h5>
+
+<span>
+
+Facilities Manager
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4 col-md-6">
+
+<div class="testimonial-card">
+
+<div class="stars">
+
+★★★★★
+
+</div>
+
+<p>
+
+"Their electronic security team delivered an excellent CCTV and access control solution within schedule."
+
+</p>
+
+<div class="client">
+
+<img src="assets/images/testimonials/client2.jpg">
+
+<div>
+
+<h5>
+
+Mary Atieno
+
+</h5>
+
+<span>
+
+Operations Manager
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-4">
+
+<div class="testimonial-card">
+
+<div class="stars">
+
+★★★★★
+
+</div>
+
+<p>
+
+"The professionalism of the guards and the control room support has been exceptional."
+
+</p>
+
+<div class="client">
+
+<img src="assets/images/testimonials/client3.jpg">
+
+<div>
+
+<h5>
+
+Peter Kimani
+
+</h5>
+
+<span>
+
+Property Manager
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+LATEST NEWS
+=========================================== -->
+
+<section class="news-section">
+
+<div class="container">
+
+<div class="section-header text-center">
+
+<span class="section-subtitle">
+
+LATEST NEWS
+
+</span>
+
+<h2>
+
+Security Insights & Company Updates
+
+</h2>
+
+<p>
+
+Stay informed with the latest security trends, company news and expert advice from Riley Falcon.
+
+</p>
+
+</div>
+
+<div class="row g-4">
+
+<!-- Article -->
+<div class="col-lg-4">
+<div class="news-card">
+<div class="news-image">
+<img src="assets/images/news/comm.jpg">
+<span>
+Security Tips
+</span>
+</div>
+<div class="news-content">
+<div class="news-date">
+<i class="bi bi-calendar3"></i>
+4 August 2026
+</div>
+<h4>
+Five Ways to Improve Commercial Security
+</h4>
+<p>
+Simple measures that significantly reduce security risks for businesses.
+</p>
+<a href="blog/article.php">
+Read Article
+<i class="bi bi-arrow-right"></i>
+</a>
+</div>
+</div>
+</div>
+
+<!-- Article -->
+
+<div class="col-lg-4">
+
+<div class="news-card">
+<div class="news-image">
+<img src="assets/images/news/night.png">
+<span>
+Security Tips
+</span>
+</div>
+<div class="news-content">
+<div class="news-date">
+<i class="bi bi-calendar3"></i>
+4 August 2026
+</div>
+<h4>
+What is Night Vision?
+</h4>
+<p>
+Night vision and how thermal cameras stop intruders in the dark.
+</p>
+<a href="blog/article.php">
+Read Article
+<i class="bi bi-arrow-right"></i>
+</a>
+</div>
+</div>
+</div>
+
+<!-- Article -->
+
+<div class="col-lg-4">
+
+<div class="news-card">
+<div class="news-image">
+<img src="assets/images/news/guard.png">
+<span>
+Security Bit
+</span>
+</div>
+<div class="news-content">
+<div class="news-date">
+<i class="bi bi-calendar3"></i>
+4 August 2026
+</div>
+<h4>
+Why Automated Guard Tour Systems
+</h4>
+<p>
+Automated guard tours improve safety tracking at large sites..
+</p>
+<a href="blog/article.php">
+Read Article
+<i class="bi bi-arrow-right"></i>
+</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<div class="text-center mt-5">
+
+<a href="blog.php"
+
+class="btn btn-main">
+
+View All Articles
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+<section class="cta-section">
+
+<div class="container">
+
+<h2>
+
+Ready to Strengthen Your Security?
+
+</h2>
+
+<p>
+
+Speak with our specialists today and receive a professional security assessment tailored to your business.
+
+</p>
+
+<div class="cta-buttons">
+
+<a href="quote.php"
+
+class="btn btn-light btn-lg">
+
+Request Assessment
+
+</a>
+
+<a href="tel:+254722716581"
+
+class="btn btn-outline-light btn-lg">
+
+Call Us Now
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<footer class="footer">
+
+    <div class="container">
+
+        <div class="row gy-5">
+
+            <!-- Company -->
+
+            <div class="col-lg-4">
+
+                <img src="assets/images/logo.png"
+                     class="footer-logo"
+                     alt="Riley Falcon">
+
+                <p class="footer-about">
+
+                    Riley Falcon Security is a leading provider of integrated security
+                    solutions including professional guarding, electronic security,
+                    alarm monitoring, CCTV, K9 services and cash management.
+
+                </p>
+
+                <div class="footer-certifications">
+
+                    <img src="assets/images/9001.png" alt="ISO 9001">
+
+                    <img src="assets/images/45001.jpg" alt="ISO 45001">
+
+                </div>
+
+            </div>
+
+            <!-- Solutions -->
+
+            <div class="col-lg-2">
+
+                <h5>Solutions</h5>
+
+                <ul>
+
+                    <li><a href="#">Guarding</a></li>
+
+                    <li><a href="#">Electronic Security</a></li>
+
+                    <li><a href="#">Alarm Monitoring</a></li>
+
+                    <li><a href="#">Cash in Transit</a></li>
+
+                    <li><a href="#">K9 Services</a></li>
+
+                </ul>
+
+            </div>
+
+            <!-- Company -->
+
+            <div class="col-lg-2">
+
+                <h5>Company</h5>
+
+                <ul>
+
+                    <li><a href="about.php">About Us</a></li>
+
+                    <li><a href="industries.php">Industries</a></li>
+
+                    <li><a href="products.php">Products</a></li>
+
+                    <li><a href="careers.php">Careers</a></li>
+
+                    <li><a href="contact.php">Contact</a></li>
+
+                </ul>
+
+            </div>
+
+            <!-- Contact -->
+
+            <div class="col-lg-4">
+
+                <h5>Contact Us</h5>
+
+                <ul class="contact-list">
+
+                    <li><i class="bi bi-geo-alt"></i> Nairobi, Kenya</li>
+
+                    <li><i class="bi bi-telephone"></i> +254 722 716 581 / +254 733 617 817  </li>
+
+                    <li><i class="bi bi-envelope"></i> info@rileyfalcon.co.ke</li>
+
+                    <li><i class="bi bi-clock"></i> 24/7 Operations</li>
+
+                </ul>
+
+                <div class="footer-social">
+
+                    <a href="#"><i class="bi bi-facebook"></i></a>
+
+                    <a href="#"><i class="bi bi-linkedin"></i></a>
+
+                    <a href="#"><i class="bi bi-instagram"></i></a>
+
+                    <a href="#"><i class="bi bi-youtube"></i></a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="footer-bottom">
+
+            <p>
+
+                © <?= date('Y'); ?> Riley Falcon Security.
+                All Rights Reserved.
+
+            </p>
+
+            <div>
+
+                <a href="#">Privacy Policy</a>
+
+                <a href="#">Terms of Use</a>
+
+                <a href="#">Sitemap</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</footer>
+
+<!-- VIDEO MODAL -->
+
+<div class="modal fade"
+     id="videoModal"
+     tabindex="-1">
+
+<div class="modal-dialog modal-xl modal-dialog-centered">
+
+<div class="modal-content video-modal">
+
+<button
+type="button"
+class="btn-close btn-close-white"
+data-bs-dismiss="modal">
+
+</button>
+
+<div class="ratio ratio-16x9">
+
+<video
+id="companyVideo"
+controls
+preload="metadata">
+
+<source
+src="assets/videos/company-intro.mp4"
+type="video/mp4">
+
+Your browser does not support HTML5 video.
+
+</video>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<?php include "includes/footer.php"; ?>
+
+<?php include "includes/scripts.php"; ?>
